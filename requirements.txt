@@ -1,0 +1,9 @@
+wheel
+numpy
+sympy
+scipy
+matplotlib
+warp-lang
+jupyterlab
+ipympl
+ipyanimlab
