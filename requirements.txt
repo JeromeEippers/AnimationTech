@@ -2,8 +2,10 @@ wheel
 numpy
 sympy
 scipy
+scikit-learn
 matplotlib
 warp-lang
 jupyterlab
 ipympl
 ipyanimlab
+ipycanvas
