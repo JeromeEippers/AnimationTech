@@ -28,5 +28,5 @@ print(len(normals))
 print(len(indices))
 
 import pickle
-with open(r'E:\github\python_lab\labs\animation\papers\animated_face.dat', 'wb') as f:
+with open("--------------- SET YOUR PATH HERE --------------", 'wb') as f:
     pickle.dump((indices, normals, frames), f)
