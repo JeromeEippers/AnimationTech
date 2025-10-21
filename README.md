@@ -9,5 +9,8 @@ Welcome to the repository of the youtube channel [**Animation Tech**](https://ww
 <img src="banner.png"/><br>
 </p>
 
-## dataset
+## Versions
+As of today, I'm working in a Python 3.10 environment. I haven't tested in other versions.
+
+## Dataset
 Check the [resources](resources/resources.md) file for the needed data set
